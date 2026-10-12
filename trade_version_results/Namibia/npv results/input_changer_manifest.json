@@ -1,0 +1,48 @@
+{
+    "country_name": "Namibia",
+    "country_iso3": "NAM",
+    "npv_results_dir": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\trade_version_results\\Namibia\\npv results",
+    "ap_location_for_model": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\power_markets\\AP_location_dataset.xlsx",
+    "aeo_for_model": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\AEO22_AEO23_energy_mix_fraction.xlsx",
+    "site_logistics_for_model": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\power_markets\\site_logistics_and_shipping.xlsx",
+    "optimization_results_for_model": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\power_markets\\OPTIMIZATION_RESULTS_V2.xlsx",
+    "ppa_output_for_model": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\PPA_output.xlsx",
+    "labour": {
+        "operator_pay_usd_per_hour": 2.3619402376519596,
+        "projected_annual_pay_usd_per_employee_2030": 4912.835694316076,
+        "activity_code_used": "20",
+        "projection_method": "linear_regression",
+        "source_year_min": 2010,
+        "source_year_max": 2021,
+        "country_name": "Namibia",
+        "iso3": "NAM"
+    },
+    "natural_gas_and_ammonia": {
+        "country_name": "Namibia",
+        "iso3": "NAM",
+        "target_year": 2030,
+        "country_ng_price_eur_per_mwh": 32.32844130042842,
+        "country_ng_price_usd_per_mwh": 35.92049033380936,
+        "country_ng_price_usd_per_mmbtu_no_carbon": 10.52769353276945,
+        "eu27_avg_ng_price_eur_per_mwh": 31.76257529319886,
+        "eu27_avg_ng_price_usd_per_mwh": 35.29175032577651,
+        "eu_co2_pass_through_usd_per_mwh_eq": 23.87,
+        "eu27_ng_usd_per_mmbtu_with_co2_for_nh3": 19.26590801282288,
+        "projected_nh3_price_usd_per_t": 876.4361849487565,
+        "country_ng_price_method": "interpolated_or_exact; used_legacy_EUR_per_MWh_column; source_price_col=NatGasPrice_Eur_per_MWh; unit_col=Price_Unit"
+    },
+    "carbon": {
+        "ng_emissions_gco2e_per_kwh": 43.0,
+        "ng_emissions_kgco2e_per_kwh": 0.043,
+        "carbon_price_source_usd_year": 2010,
+        "carbon_price_target_usd_year": 2025,
+        "carbon_price_usd_conversion_multiplier": 1.4389838450553374,
+        "carbon_price_conversion_method": "U.S. GDP implicit price deflator",
+        "carbon_price_conversion_source": "U.S. Bureau of Economic Analysis via FRED annual series A191RD3A086NBEA",
+        "carbon_price_conversion_url": "https://fred.stlouisfed.org/data/A191RD3A086NBEA"
+    },
+    "site_count": 10,
+    "unique_selected_ports": [
+        "Walvis Bay"
+    ]
+}

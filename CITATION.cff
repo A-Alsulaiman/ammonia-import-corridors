@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Ammonia exports to the EU from thirteen prospective trade partners: model code and data"
+type: software
+authors:
+  - family-names: Alsulaiman
+    given-names: Abdurahman
+    affiliation: "Laboratory of Environmental and Urban Economics (LEURE), EPFL; Oxford Institute for Energy Studies"
+    email: abdurahman.alsulaiman@epfl.ch
+  - family-names: Anice
+    given-names: Othmane
+    affiliation: "Oxford Institute for Energy Studies"
+repository-code: "https://github.com/A-Alsulaiman/ammonia-import-corridors"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-12"
+preferred-citation:
+  type: article
+  title: "Geospatial siting, shipping and delivered economics of grey, blue and green ammonia exports to the EU and the competitiveness of thirteen prospective trade partner countries under EU climate regulation"
+  authors:
+    - family-names: Alsulaiman
+      given-names: Abdurahman
+    - family-names: Anice
+      given-names: Othmane
+  journal: "Energy Strategy Reviews"
+  year: 2026
+  notes: "Submitted."

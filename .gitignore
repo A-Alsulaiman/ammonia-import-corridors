@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.spyproject/
+.vscode/
+.idea/
+
+# Secrets: never commit API tokens
+.env
+*.token
+
+# Large caches rebuilt or restored from the Zenodo archive
+cf_cache_cells_constraints_v11/
+cf_cache*/
+.online_constraints_cache/
+Trade_version/.ocean_cache/
+.ocean_cache/
+
+# Per-run working files written at the project root by input_changer.py and the DCF runner
+/power_markets/AP_location_dataset.xlsx
+/power_markets/OPTIMIZATION_RESULTS_V2.xlsx
+/power_markets/site_logistics_and_shipping.xlsx
+/PPA_output.xlsx
+/input_parameters_deterministic.json
+trade_version_results/UpdatedPub150_wrapper_ready.csv
+
+# Raw DCF outputs (archived on Zenodo; tens of MB per port)
+trade_version_results/**/npv results/v14_DATASET*.xlsx
+trade_version_results/**/npv results/*.csv
+trade_version_results/**/probabilistic_outputs/
+trade_version_results/**/mc_results*
+trade_version_results/**/*.log
+
+# Figure outputs written at the project root by paper_figures/*.py
+/*.png
+paper_figures/*.png
+/npv_ci_run_level_values_eligible_only.csv
+country_dashboard_cards_eligible_only/
+best_60_locations_lcoe_transport_all_countries.csv
+all_source_points_with_best60_flag.csv
+
+# OS
+.DS_Store
+Thumbs.db

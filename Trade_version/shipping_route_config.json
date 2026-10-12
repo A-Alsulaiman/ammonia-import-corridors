@@ -1,0 +1,32 @@
+{
+  "lanes": "Trade_version/Shipping_Lanes_v1.geojson",
+  "ports": "Trade_version/UpdatedPub150.csv",
+
+  "origin": "Hobart",
+  "origin_country": "Australia",
+  "destination": "Rotterdam",
+  "destination_country": "Netherlands",
+
+  "cargo_tonnes": 50000,
+  "year": 2030,
+  "decarbonisation_scenario": "bau",
+
+  "summary_years": [2020, 2030, 2040, 2050],
+  "summary_decarbonisation_scenarios": ["bau", "decarbonised"],
+
+  "suez_toll_eur": 300000,
+  "panama_toll_eur": 250000,
+  "carbon_price_eur_per_tco2": null,
+
+  "mc_iters": 1000,
+  "output_prefix": "ammonia_route",
+  "random_seed": 42,
+
+  "allow_open_ocean_bridge": true,
+  "max_bridge_nm": 2500.0,
+  "min_bridge_nm": 50.0,
+
+  "plot": true,
+
+  "config_name": "Default shipping route config for San Antonio → Rotterdam"
+}

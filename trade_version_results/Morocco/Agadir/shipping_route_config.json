@@ -1,0 +1,37 @@
+{
+  "lanes": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\Trade_version\\Shipping_Lanes_v1.geojson",
+  "ports": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\trade_version_results\\UpdatedPub150_wrapper_ready.csv",
+  "origin": "Agadir",
+  "origin_country": "Morocco",
+  "destination": "Rotterdam",
+  "destination_country": "Netherlands",
+  "cargo_tonnes": 50000,
+  "year": 2030,
+  "decarbonisation_scenario": "bau",
+  "summary_years": [
+    2020,
+    2030,
+    2040,
+    2050
+  ],
+  "summary_decarbonisation_scenarios": [
+    "bau",
+    "decarbonised"
+  ],
+  "suez_toll_eur": 300000,
+  "panama_toll_eur": 250000,
+  "carbon_price_eur_per_tco2": null,
+  "mc_iters": 1000,
+  "output_prefix": "C:\\Users\\user\\Documents\\Project\\AP_IRA_Model\\trade_version_results\\Morocco\\Agadir\\shipping_route",
+  "random_seed": 42,
+  "allow_open_ocean_bridge": true,
+  "max_bridge_nm": 2500.0,
+  "min_bridge_nm": 50.0,
+  "plot": false,
+  "config_name": "Default shipping route config for San Antonio → Rotterdam",
+  "save_plot": true,
+  "plot_dpi": 250,
+  "ocean_grid_step_deg": 1.0,
+  "ocean_grid_lat_min": -75.0,
+  "ocean_grid_lat_max": 75.0
+}

@@ -1,0 +1,27 @@
+{
+  "plot_style_version": "v6_2x2_bottom_centered_legend",
+  "origin": "Corpus Christi",
+  "destination": "Rotterdam",
+  "route_count_input": 4,
+  "route_count_plotted": 1,
+  "plotted_route_labels": [
+    "Access Canals"
+  ],
+  "route_colors": {
+    "Access Canals": "#2ca02c"
+  },
+  "deduplicated_routes": [
+    {
+      "plotted_label": "Access Canals",
+      "represented_scenarios": [
+        "all_canals",
+        "avoid_suez",
+        "avoid_panama",
+        "avoid_suez_and_panama"
+      ],
+      "distance_nm": 5085.784765260385,
+      "uses_suez": false,
+      "uses_panama": false
+    }
+  ]
+}

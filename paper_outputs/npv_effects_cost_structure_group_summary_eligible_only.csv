@@ -1,0 +1,323 @@
+country,iso3,display_year,technology,pathway_label,eligible_for_main_results,screening_status,parameter_group,group_abs_cost,group_share_pct
+Australia,AUS,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,20.28081686432315
+Australia,AUS,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,2.508311967559433,1.2659544637058378
+Australia,AUS,2030,AP AEC,Green ammonia,True,eligible,General tax,4.216708933637481,2.128188824088193
+Australia,AUS,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,14.018326105266027,7.075101796014974
+Australia,AUS,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,137.20908085412086,69.24993805186784
+Australia,AUS,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,19.260855848534966
+Australia,AUS,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,25.02391719552754,12.333020374524017
+Australia,AUS,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,50.75165925393605,25.01292034852013
+Australia,AUS,2030,AP CCS,Blue ammonia,True,eligible,General tax,2.17793971415405,1.073396089799547
+Australia,AUS,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,19.260257774811613,9.492404794153913
+Australia,AUS,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,66.60738230141025,32.82740254446743
+Australia,AUS,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,13.050581304239483
+Australia,AUS,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,62.026857877232416,31.496439003364785
+Australia,AUS,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,47.73031087811401,24.236836696768595
+Australia,AUS,2030,AP SMR,Gray ammonia,True,eligible,General tax,2.1594300898054,1.0965307680135072
+Australia,AUS,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,14.018326105266027,7.1183253225189524
+Australia,AUS,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,45.29710656189863,23.00128690509468
+Australia,AUS,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,13.581909996816746
+Australia,AUS,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,2.817583859682125,1.5765393046544833
+Australia,AUS,2040,AP AEC,Green ammonia,True,eligible,General tax,6.299388082686662,3.524733744303885
+Australia,AUS,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,14.018326105266027,7.84375663371
+Australia,AUS,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,131.31071852718824,73.47306032051489
+Australia,AUS,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,13.800208231799497
+Australia,AUS,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,28.109336521143764,15.061371975832728
+Australia,AUS,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,44.13115046355522,23.646081875788173
+Australia,AUS,2040,AP CCS,Blue ammonia,True,eligible,General tax,3.618874803207773,1.939043260735879
+Australia,AUS,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,19.260257774811613,10.319912975486286
+Australia,AUS,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,65.7567573538606,35.23338168035744
+Australia,AUS,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,8.876955551984345
+Australia,AUS,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,69.67469592378205,36.509561599453335
+Australia,AUS,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,41.50393429493547,21.748074041373698
+Australia,AUS,2040,AP SMR,Gray ammonia,True,eligible,General tax,3.242943795297415,1.6993035231541358
+Australia,AUS,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,14.018326105266027,7.345607091293256
+Australia,AUS,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,45.45893994950343,23.820498192741233
+Chile,CHL,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,15.333885520864566
+Chile,CHL,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,1.260737414137976,0.48109179345360853
+Chile,CHL,2030,AP AEC,Green ammonia,True,eligible,General tax,1.748410195442789,0.6671855591699685
+Chile,CHL,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,11.511125374063482,4.392594277583221
+Chile,CHL,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,207.3536805653641,79.12524284892865
+Chile,CHL,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,10.516751993620504
+Chile,CHL,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,1.836117548941795,0.7955165469939098
+Chile,CHL,2040,AP AEC,Green ammonia,True,eligible,General tax,3.737565426257554,1.6193381212296687
+Chile,CHL,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,11.511125374063482,4.987311795405779
+Chile,CHL,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,189.44987986267466,82.08108154275014
+Egypt,EGY,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,24.255631261053423
+Egypt,EGY,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.5515527248626075,0.33292829529808027
+Egypt,EGY,2030,AP AEC,Green ammonia,True,eligible,General tax,7.23972992901919,4.370046298451815
+Egypt,EGY,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,5.108793771448767,3.0837704623462328
+Egypt,EGY,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,112.58343927753253,67.95762368285045
+Egypt,EGY,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,22.125504903415848
+Egypt,EGY,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,17.45160855267797,9.880233919020704
+Egypt,EGY,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,49.42086675801663,27.979639961327802
+Egypt,EGY,2030,AP CCS,Blue ammonia,True,eligible,General tax,3.845041930081013,2.1768717527080708
+Egypt,EGY,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,10.335151193630796,5.851249245780775
+Egypt,EGY,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,56.498245420650385,31.98650021774681
+Egypt,EGY,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,16.033920674286037
+Egypt,EGY,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,41.109844622525095,25.64704790489455
+Egypt,EGY,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,46.47874313671905,28.99652291883324
+Egypt,EGY,2030,AP SMR,Gray ammonia,True,eligible,General tax,5.124847413624651,3.1972197494146863
+Egypt,EGY,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,5.108793771448767,3.187204422582063
+Egypt,EGY,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,36.76762667738777,22.93808432998943
+Egypt,EGY,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,16.996566065062936
+Egypt,EGY,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.8032724546208059,0.5624593814465506
+Egypt,EGY,2040,AP AEC,Green ammonia,True,eligible,General tax,9.661670263125814,6.7651978462321365
+Egypt,EGY,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,5.108793771448767,3.5772283340445523
+Egypt,EGY,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,102.96704053082257,72.09854837321382
+Egypt,EGY,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,15.5855320367815
+Egypt,EGY,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,25.416240020721656,15.380173530244543
+Egypt,EGY,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,42.97395866457703,26.00490635136771
+Egypt,EGY,2040,AP CCS,Blue ammonia,True,eligible,General tax,5.039939966096701,3.049827637659409
+Egypt,EGY,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,10.335151193630796,6.254128017746126
+Egypt,EGY,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,55.732380630253985,33.725432426200705
+Egypt,EGY,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,10.248705379199944
+Egypt,EGY,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,59.87171182454327,36.22081138626678
+Egypt,EGY,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,40.41563245174895,24.450394944134345
+Egypt,EGY,2040,AP SMR,Gray ammonia,True,eligible,General tax,4.746176865910126,2.8713122078383946
+Egypt,EGY,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,5.108793771448767,3.0906859010355663
+Egypt,EGY,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,38.21338010685369,23.118090181524973
+Morocco,MAR,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,24.373770376034614
+Morocco,MAR,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.2972054460987462,0.18027295159593887
+Morocco,MAR,2030,AP AEC,Green ammonia,True,eligible,General tax,7.349712004981262,4.458041714611997
+Morocco,MAR,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,3.4466976975722647,2.090629143430424
+Morocco,MAR,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,113.58691575281875,68.89728581432703
+Morocco,MAR,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,17.12047282353603
+Morocco,MAR,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.432845197662437,0.30529202646537645
+Morocco,MAR,2040,AP AEC,Green ammonia,True,eligible,General tax,9.808910561353626,6.918367580061882
+Morocco,MAR,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,3.4466976975722647,2.4310061204052023
+Morocco,MAR,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,103.81872725235294,73.22486144953152
+Namibia,NAM,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,25.040862622568316
+Namibia,NAM,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.8769167040613772,0.5464604296998221
+Namibia,NAM,2030,AP AEC,Green ammonia,True,eligible,General tax,7.936028030449722,4.9454244257683255
+Namibia,NAM,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,9.82724836650124,6.123959482415414
+Namibia,NAM,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,101.6483330497454,63.343293039548115
+Namibia,NAM,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,17.050373392548785
+Namibia,NAM,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,1.277127283787487,0.8970882757251577
+Namibia,NAM,2040,AP AEC,Green ammonia,True,eligible,General tax,9.723041059674205,6.82972343458246
+Namibia,NAM,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,9.82724836650124,6.902921426972216
+Namibia,NAM,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,97.26266894490362,68.31989347017138
+Norway,NOR,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,19.523288742826594
+Norway,NOR,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.03342445713665122,0.016239342091356277
+Norway,NOR,2030,AP AEC,Green ammonia,True,eligible,General tax,3.66210939398787,1.7792434737773795
+Norway,NOR,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,0.617345169122516,0.2999384357639611
+Norway,NOR,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,161.32747579103557,78.38129000554072
+Norway,NOR,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,21.737477218395114
+Norway,NOR,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,7.224120209001297,4.018210439242595
+Norway,NOR,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,53.08454489732361,29.52676122458328
+Norway,NOR,2030,AP CCS,Blue ammonia,True,eligible,General tax,3.491203587781053,1.9418822356338379
+Norway,NOR,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,5.906268515396369,3.2851930918819083
+Norway,NOR,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,70.99776095183591,39.49047579026327
+Norway,NOR,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,16.295810634937904
+Norway,NOR,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,31.46037401712501,19.94764670413946
+Norway,NOR,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,49.92431514593195,31.654823936138836
+Norway,NOR,2030,AP SMR,Gray ammonia,True,eligible,General tax,5.221765586522142,3.3108930947571755
+Norway,NOR,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,0.617345169122516,0.391431561540238
+Norway,NOR,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,44.79002322960216,28.39939406848639
+Norway,NOR,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,14.174473483080888
+Norway,NOR,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.048678837975488,0.028425901180866426
+Norway,NOR,2040,AP AEC,Green ammonia,True,eligible,General tax,6.81493691170034,3.9795675341178045
+Norway,NOR,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,0.617345169122516,0.360497363983882
+Norway,NOR,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,139.49368987222755,81.45703571763654
+Norway,NOR,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,15.942123399957795
+Norway,NOR,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,10.521091658473381,6.512313074842263
+Norway,NOR,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,46.15971325058607,28.57179786003115
+Norway,NOR,2040,AP CCS,Blue ammonia,True,eligible,General tax,5.181509291674094,3.207234743593337
+Norway,NOR,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,5.906268515396369,3.6558439870037263
+Norway,NOR,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,68.03272384914294,42.110686934571724
+Norway,NOR,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,10.746638168770318
+Norway,NOR,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,45.818379133780404,29.065636575970043
+Norway,NOR,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,43.41173265826182,27.538941106887197
+Norway,NOR,2040,AP SMR,Gray ammonia,True,eligible,General tax,5.166198095258261,3.2772620759414433
+Norway,NOR,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,0.617345169122516,0.3916229833284659
+Norway,NOR,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,45.68322459591213,28.979899089102545
+Oman,OMN,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,22.264847442900432
+Oman,OMN,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.9244338595402253,0.5122083554375241
+Oman,OMN,2030,AP AEC,Green ammonia,True,eligible,General tax,5.674504097362209,3.1441172147015197
+Oman,OMN,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,8.26572843911529,4.579857311152706
+Oman,OMN,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,125.43177027363538,69.49896967580781
+Oman,OMN,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,20.29877446292349
+Oman,OMN,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,18.874190427823464,9.803400028720443
+Oman,OMN,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,48.51074544770636,25.196855204673085
+Oman,OMN,2030,AP CCS,Blue ammonia,True,eligible,General tax,2.705948165875498,1.405490340287882
+Oman,OMN,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,13.485321718621233,7.004380072840088
+Oman,OMN,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,69.87016016512605,36.29109989055502
+Oman,OMN,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,14.750632660902955
+Oman,OMN,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,42.46993570083882,24.37496878865649
+Oman,OMN,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,45.62280317896217,26.184508763366384
+Oman,OMN,2030,AP SMR,Gray ammonia,True,eligible,General tax,3.66822946582144,2.1053240901719015
+Oman,OMN,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,8.26572843911529,4.743988174085371
+Oman,OMN,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,48.50826877031763,27.8405775228169
+Oman,OMN,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,14.961832100187102
+Oman,OMN,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,1.346330499359671,0.8298575789901403
+Oman,OMN,2040,AP AEC,Green ammonia,True,eligible,General tax,7.661014952379095,4.7221327333907235
+Oman,OMN,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,8.26572843911529,5.094868900568292
+Oman,OMN,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,120.68973075390164,74.39130868686375
+Oman,OMN,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,14.100399131456767
+Oman,OMN,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,27.48806522117159,15.048869597376529
+Oman,OMN,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,42.18256186936239,23.093654200382673
+Oman,OMN,2040,AP CCS,Blue ammonia,True,eligible,General tax,3.913528354967131,2.142536311874542
+Oman,OMN,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,13.485321718621233,7.3827985487277905
+Oman,OMN,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,69.8335922570357,38.23174221018171
+Oman,OMN,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,9.380822847119811
+Oman,OMN,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,61.852526440692785,34.25041743111304
+Oman,OMN,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,39.67134909985818,21.967740768493893
+Oman,OMN,2040,AP SMR,Gray ammonia,True,eligible,General tax,3.821364281636423,2.1160545790783534
+Oman,OMN,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,8.26572843911529,4.577091118232262
+Oman,OMN,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,50.037403679144006,27.70787325596264
+Saudi Arabia,SAU,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,23.83395060309487
+Saudi Arabia,SAU,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.5697373069179076,0.3379261372902203
+Saudi Arabia,SAU,2030,AP AEC,Green ammonia,True,eligible,General tax,6.858268231158782,4.0678187363104445
+Saudi Arabia,SAU,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,6.078106532383442,3.605084374126727
+Saudi Arabia,SAU,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,114.90845866959638,68.15522014917772
+Saudi Arabia,SAU,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,22.609024170264387
+Saudi Arabia,SAU,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,9.071345115349532,5.247978917370445
+Saudi Arabia,SAU,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,48.51074544770636,28.064566625814876
+Saudi Arabia,SAU,2030,AP CCS,Blue ammonia,True,eligible,General tax,4.226399148488031,2.44506777612583
+Saudi Arabia,SAU,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,11.358582522335082,6.571197639428591
+Saudi Arabia,SAU,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,60.60637876865864,35.062164870995865
+Saudi Arabia,SAU,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,16.39168022988716
+Saudi Arabia,SAU,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,33.2295576914982,21.193361731395473
+Saudi Arabia,SAU,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,45.62280317896217,29.09760581072636
+Saudi Arabia,SAU,2030,AP SMR,Gray ammonia,True,eligible,General tax,5.514492514486821,3.517068620341378
+Saudi Arabia,SAU,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,6.078106532383442,3.8765340056186672
+Saudi Arabia,SAU,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,40.64644127243518,25.923749602030966
+Saudi Arabia,SAU,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,16.455496620043583
+Saudi Arabia,SAU,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.8297561853782832,0.5625078606277453
+Saudi Arabia,SAU,2040,AP AEC,Green ammonia,True,eligible,General tax,9.103258072425106,6.171275747378259
+Saudi Arabia,SAU,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,6.078106532383442,4.120466665325104
+Saudi Arabia,SAU,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,107.2255009283337,72.69025310662529
+Saudi Arabia,SAU,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,16.31636031035494
+Saudi Arabia,SAU,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,13.21136009133925,8.369492360610211
+Saudi Arabia,SAU,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,42.18256186936239,26.722958641331484
+Saudi Arabia,SAU,2040,AP CCS,Blue ammonia,True,eligible,General tax,5.669242696247747,3.591506333083442
+Saudi Arabia,SAU,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,11.358582522335082,7.195744343564193
+Saudi Arabia,SAU,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,59.674041915047596,37.80393801105572
+Saudi Arabia,SAU,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,10.71657824623129
+Saudi Arabia,SAU,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,48.39498958048397,30.61427863940646
+Saudi Arabia,SAU,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,39.67134909985818,25.095774291353397
+Saudi Arabia,SAU,2040,AP SMR,Gray ammonia,True,eligible,General tax,5.299154162543998,3.3522020252839195
+Saudi Arabia,SAU,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,6.078106532383442,3.8449609886355187
+Saudi Arabia,SAU,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,41.69545264609022,26.376205809089424
+South Africa,ZAF,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,21.995205896611516
+South Africa,ZAF,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.7066367598055588,0.38679009902194134
+South Africa,ZAF,2030,AP AEC,Green ammonia,True,eligible,General tax,5.482859018325228,3.0011396282368668
+South Africa,ZAF,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,9.040166202384146,4.948294483798329
+South Africa,ZAF,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,127.2792985484653,69.66856989233135
+South Africa,ZAF,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,15.070969864974263
+South Africa,ZAF,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.9048901378708208,0.5618290097729424
+South Africa,ZAF,2040,AP AEC,Green ammonia,True,eligible,General tax,7.789090292501332,4.836097447547588
+South Africa,ZAF,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,9.040166202384146,5.612866593528253
+South Africa,ZAF,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,119.05380922444891,73.91823708417697
+Turkey,TUR,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,20.09796822770562
+Turkey,TUR,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.4934045852784555,0.24677799264359015
+Turkey,TUR,2030,AP AEC,Green ammonia,True,eligible,General tax,4.272551399699978,2.1369312109036884
+Turkey,TUR,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,5.334876829048079,2.6682569115775356
+Turkey,TUR,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,149.65421028032733,74.85006565716957
+Turkey,TUR,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,20.21449540131132
+Turkey,TUR,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,20.14670725206923,10.420907823564118
+Turkey,TUR,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,54.64566686369059,28.265534919371202
+Turkey,TUR,2030,AP CCS,Blue ammonia,True,eligible,General tax,2.519858284094462,1.303399636399432
+Turkey,TUR,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,10.5434926666781,5.453633878885689
+Turkey,TUR,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,66.39333186051009,34.34202834046823
+Turkey,TUR,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,14.982776049808805
+Turkey,TUR,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,43.64103699870524,25.441292250851856
+Turkey,TUR,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,51.39250038102983,29.960140996067224
+Turkey,TUR,2030,AP SMR,Gray ammonia,True,eligible,General tax,3.752557277642335,2.1876177321678245
+Turkey,TUR,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,5.334876829048079,3.110058098164276
+Turkey,TUR,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,41.71438071795289,24.318114872940004
+Turkey,TUR,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,13.404051483240872
+Turkey,TUR,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.71858644599483,0.3968096380228221
+Turkey,TUR,2040,AP AEC,Green ammonia,True,eligible,General tax,6.249887964886554,3.4512420806886035
+Turkey,TUR,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,5.334876829048079,2.9459650334764866
+Turkey,TUR,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,144.51409702636067,79.80193176457121
+Turkey,TUR,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,14.063123139068024
+Turkey,TUR,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,29.34133811219538,16.021013843326035
+Turkey,TUR,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,47.51718824554121,25.945426475329377
+Turkey,TUR,2040,AP CCS,Blue ammonia,True,eligible,General tax,3.703208643222478,2.022033102612061
+Turkey,TUR,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,10.5434926666781,5.756978135214898
+Turkey,TUR,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,66.28200044047045,36.1914253044496
+Turkey,TUR,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,9.541394194364516
+Turkey,TUR,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,63.55809940179289,35.797296698162455
+Turkey,TUR,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,44.68839443584597,25.1694706047073
+Turkey,TUR,2040,AP SMR,Gray ammonia,True,eligible,General tax,3.809205892159568,2.1454271727668774
+Turkey,TUR,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,5.334876829048079,3.0047180531675726
+Turkey,TUR,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,43.21867581068524,24.34169327683128
+United Arab Emirates,ARE,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,22.134252177326395
+United Arab Emirates,ARE,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.958117657104998,0.5277579549655071
+United Arab Emirates,ARE,2030,AP AEC,Green ammonia,True,eligible,General tax,5.597368298822411,3.0831867304283973
+United Arab Emirates,ARE,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,8.137497682762032,4.482360912299108
+United Arab Emirates,ARE,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,126.6683111947813,69.77244222498058
+United Arab Emirates,ARE,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,21.77215568540077
+United Arab Emirates,ARE,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,14.182469827910785,7.901178498400471
+United Arab Emirates,ARE,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,48.51074544770636,27.025762333615955
+United Arab Emirates,ARE,2030,AP CCS,Blue ammonia,True,eligible,General tax,3.627950598907892,2.021163141058682
+United Arab Emirates,ARE,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,13.38754088796061,7.45831660450594
+United Arab Emirates,ARE,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,60.70883245889856,33.82142373701817
+United Arab Emirates,ARE,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,15.897886890683973
+United Arab Emirates,ARE,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,38.05952793111332,23.542610473396735
+United Arab Emirates,ARE,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,45.62280317896217,28.22105113575784
+United Arab Emirates,ARE,2030,AP SMR,Gray ammonia,True,eligible,General tax,4.94359298427013,3.0579749748431544
+United Arab Emirates,ARE,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,8.137497682762032,5.033639369363325
+United Arab Emirates,ARE,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,39.19799705393839,24.246837155954964
+United Arab Emirates,ARE,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,14.735798014536783
+United Arab Emirates,ARE,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,1.395387036533964,0.8471014936718227
+United Arab Emirates,ARE,2040,AP AEC,Green ammonia,True,eligible,General tax,7.468899020911195,4.534165325495261
+United Arab Emirates,ARE,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,8.137497682762032,4.940053376833081
+United Arab Emirates,ARE,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,123.44958250070961,74.94288178946306
+United Arab Emirates,ARE,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,15.376002042020458
+United Arab Emirates,ARE,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,20.655119334401384,12.331032336323739
+United Arab Emirates,ARE,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,42.18256186936239,25.18283850211216
+United Arab Emirates,ARE,2040,AP CCS,Blue ammonia,True,eligible,General tax,4.894564649085982,2.9220375822077274
+United Arab Emirates,ARE,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,13.38754088796061,7.992314008002454
+United Arab Emirates,ARE,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,60.62980313150966,36.19577552933345
+United Arab Emirates,ARE,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,10.24024424136513
+United Arab Emirates,ARE,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,55.42928000319476,33.50557251933315
+United Arab Emirates,ARE,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,39.67134909985818,23.980309037542412
+United Arab Emirates,ARE,2040,AP SMR,Gray ammonia,True,eligible,General tax,4.75617633372826,2.87498612746338
+United Arab Emirates,ARE,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,8.137497682762032,4.918907817672789
+United Arab Emirates,ARE,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,40.49797028043887,24.47998025662313
+United Kingdom,GBR,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,21.020427518022792
+United Kingdom,GBR,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,0.04558466990896094,0.023845775431011292
+United Kingdom,GBR,2030,AP AEC,Green ammonia,True,eligible,General tax,4.773339809254164,2.4969795629693876
+United Kingdom,GBR,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,0.6570207053453614,0.343693794963958
+United Kingdom,GBR,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,145.5050011704451,76.11505334861285
+United Kingdom,GBR,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,14.922866373412067
+United Kingdom,GBR,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,0.05831440894088442,0.035850501216528205
+United Kingdom,GBR,2040,AP AEC,Green ammonia,True,eligible,General tax,7.630666430252666,4.691177036845487
+United Kingdom,GBR,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,0.6570207053453614,0.4039228386957713
+United Kingdom,GBR,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,130.0404252408093,79.94618324983014
+United States of America,USA,2030,AP AEC,Green ammonia,True,eligible,Capital & finance,40.18360621261922,19.48493567226955
+United States of America,USA,2030,AP AEC,Green ammonia,True,eligible,Carbon costs,1.10717353137914,0.5368658283881756
+United States of America,USA,2030,AP AEC,Green ammonia,True,eligible,General tax,3.821473802561364,1.8530236142118024
+United States of America,USA,2030,AP AEC,Green ammonia,True,eligible,Logistics & shipping,10.760366044659698,5.217676061249694
+United States of America,USA,2030,AP AEC,Green ammonia,True,eligible,Operations & maintenance,150.3564739428561,72.90749882388079
+United States of America,USA,2030,AP CCS,Blue ammonia,True,eligible,Capital & finance,39.08061831020312,19.209785551876667
+United States of America,USA,2030,AP CCS,Blue ammonia,True,eligible,Carbon costs,28.9379338970677,14.224224910277885
+United States of America,USA,2030,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,44.11929016219347,21.686507004304193
+United States of America,USA,2030,AP CCS,Blue ammonia,True,eligible,General tax,2.26141074962923,1.1115795354175497
+United States of America,USA,2030,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,15.96898188228972,7.849433573585519
+United States of America,USA,2030,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,73.07296534239259,35.91846942453818
+United States of America,USA,2030,AP SMR,Gray ammonia,True,eligible,Capital & finance,25.700891192393236,13.369284052657585
+United States of America,USA,2030,AP SMR,Gray ammonia,True,eligible,Carbon costs,62.20791768640635,32.359785333827695
+United States of America,USA,2030,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,41.49278006117394,21.58402829768276
+United States of America,USA,2030,AP SMR,Gray ammonia,True,eligible,General tax,2.49349568058229,1.2970854507818
+United States of America,USA,2030,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,10.760366044659698,5.597408630102493
+United States of America,USA,2030,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,49.58290025294261,25.79240823494767
+United States of America,USA,2040,AP AEC,Green ammonia,True,eligible,Capital & finance,24.27352764228931,13.203397437420811
+United States of America,USA,2040,AP AEC,Green ammonia,True,eligible,Carbon costs,1.279771070811292,0.6961215660881774
+United States of America,USA,2040,AP AEC,Green ammonia,True,eligible,General tax,5.999245563567088,3.2632431786494673
+United States of America,USA,2040,AP AEC,Green ammonia,True,eligible,Logistics & shipping,10.760366044659698,5.853017804146839
+United States of America,USA,2040,AP AEC,Green ammonia,True,eligible,Operations & maintenance,141.53013278433383,76.98422001369471
+United States of America,USA,2040,AP CCS,Blue ammonia,True,eligible,Capital & finance,25.7556016724076,13.605023274664148
+United States of America,USA,2040,AP CCS,Blue ammonia,True,eligible,Carbon costs,33.44907514577756,17.668989125648096
+United States of America,USA,2040,AP CCS,Blue ammonia,True,eligible,Energy & feedstocks,38.36396801828718,20.265210047740176
+United States of America,USA,2040,AP CCS,Blue ammonia,True,eligible,General tax,3.674497137892691,1.9409998539181366
+United States of America,USA,2040,AP CCS,Blue ammonia,True,eligible,Logistics & shipping,15.96898188228972,8.435383220497396
+United States of America,USA,2040,AP CCS,Blue ammonia,True,eligible,Operations & maintenance,72.09737714486704,38.084394477532044
+United States of America,USA,2040,AP SMR,Gray ammonia,True,eligible,Capital & finance,16.940745155994946,8.952650700012622
+United States of America,USA,2040,AP SMR,Gray ammonia,True,eligible,Carbon costs,71.90552444954606,37.999806848531485
+United States of America,USA,2040,AP SMR,Gray ammonia,True,eligible,Energy & feedstocks,36.0800838228527,19.06718888211771
+United States of America,USA,2040,AP SMR,Gray ammonia,True,eligible,General tax,3.468569374949234,1.8330297608952983
+United States of America,USA,2040,AP SMR,Gray ammonia,True,eligible,Logistics & shipping,10.760366044659698,5.686514832437837
+United States of America,USA,2040,AP SMR,Gray ammonia,True,eligible,Operations & maintenance,50.0707373161932,26.460808976005055
